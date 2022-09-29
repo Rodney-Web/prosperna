@@ -1,4 +1,4 @@
-# prosperna_test
+# prosperna
 #Please follow this to install the node modules.
 # 1. clone repository project
 # 2. Please install "npm i"
